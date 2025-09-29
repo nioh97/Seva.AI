@@ -1,0 +1,22 @@
+{
+  "name": "seva-next-merged",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "formidable": "^3.5.4",
+    "fs": "^0.0.1-security",
+    "lucide-react": "^0.544.0",
+    "multer": "^2.0.2",
+    "next": "^15.5.4",
+    "next-connect": "^1.0.0",
+    "openai": "^5.23.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
